@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm Tomisin, currently learning frontend development.
-I am passionate about building scalable healthcare solutions, Healthtech, AI and Blockchain. 
+I'm Tomisin and I'm currently learning frontend development.
+I am passionate about** building scalable healthcare solutions** and also **Healthtech**, **AI** and **Blockchain**. 
 
 
 <!--
