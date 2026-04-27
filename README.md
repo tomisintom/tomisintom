@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<img width="1207" height="1206" alt="-y0ffsc" src="https://github.com/user-attachments/assets/8c9fdcb9-f439-47f2-bd17-59631280dcde" />
+I'm Tomisin, currently learning frontend development.
+I am passionate about building scalable healthcare solutions, Healthtech, AI and Blockchain. 
+
+
 <!--
 **tomisintom/tomisintom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tomisin, currently learning frontend development.
-I am passionate about building scalable healthcare solutions, Healthtech, AI and Blockchain. 
+
 
 
 
